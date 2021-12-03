@@ -1,3 +1,7 @@
+Note: See [TFG Alterations](https://github.com/TFG-Labs/exporter-flutter/wiki/TFG-alterations) for changes on top of the default exporter
+
+----
+
 <img src="./readme-icon.png" alt="Supernova Logo" style="max-width:100%;">
 
 
