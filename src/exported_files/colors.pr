@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class AppColors {
-
+class FSKitColors {
+  FSKitColors._();
 {[ let brand = ds.currentBrand() /]}
 {[ const colorTokensTree = ds.tokenGroupTreeByType("Color", brand.id) /]}
 {[ traverse colorTokensTree property subgroups into colorTokenGroup ]}
@@ -17,5 +17,4 @@ class AppColors {
   
   {[/]}
 {[/]}
-  AppColors._();
 }

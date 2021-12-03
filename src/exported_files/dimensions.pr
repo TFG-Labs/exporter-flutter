@@ -1,5 +1,5 @@
-class AppDimensions {
-
+class FSKitDimensions {
+  FSKitDimensions._();
 {[ let brand = ds.currentBrand() /]}
 {[ const measureTokensTree = ds.tokenGroupTreeByType("Measure", brand.id) /]}
 {[ traverse measureTokensTree property subgroups into measureTokenGroup ]}
@@ -15,5 +15,4 @@ class AppDimensions {
 
   {[/]}
 {[/]}
-  AppDimensions._();
 }
