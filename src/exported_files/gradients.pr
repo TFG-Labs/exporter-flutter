@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class AppGradients {
-
+class FSKitGradients {
+  FSKitGradients._();
 {[ let brand = ds.currentBrand() /]}
 {[ const gradientTokensTree = ds.tokenGroupTreeByType("Gradient", brand.id) /]}
 {[ traverse gradientTokensTree property subgroups into gradientTokenGroup ]}
@@ -31,5 +31,4 @@ class AppGradients {
 
   {[/]}
 {[/]}
-  AppGradients._();
 }
