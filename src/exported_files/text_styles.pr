@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class FSKitTextStyles {
-  FSKitTextStyles._();
+class KitTextStyles {
+  KitTextStyles._();
 
 {[ let brand = ds.currentBrand() /]}
 {[ const typographyTokensTree = ds.tokenGroupTreeByType("Typography", brand.id) /]}

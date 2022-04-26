@@ -1,5 +1,5 @@
-class FSKitDimensions {
-  FSKitDimensions._();
+class KitDimensions {
+  KitDimensions._();
 {[ let brand = ds.currentBrand() /]}
 {[ const measureTokensTree = ds.tokenGroupTreeByType("Measure", brand.id) /]}
 {[ traverse measureTokensTree property subgroups into measureTokenGroup ]}

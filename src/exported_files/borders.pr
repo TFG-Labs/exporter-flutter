@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class FSKitBorders {
-  FSKitBorders._();
+class KitBorders {
+  KitBorders._();
 {[ let brand = ds.currentBrand() /]}
 {[ const borderTokensTree = ds.tokenGroupTreeByType("Border", brand.id) /]}
 {[ traverse borderTokensTree property subgroups into borderTokenGroup ]}

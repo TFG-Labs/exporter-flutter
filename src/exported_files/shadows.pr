@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class FSKitShadows {
-  FSKitShadows._();
+class KitShadows {
+  KitShadows._();
 {[ let brand = ds.currentBrand() /]}
 {[ const shadowTokensTree = ds.tokenGroupTreeByType("Shadow", brand.id) /]}
 {[ traverse shadowTokensTree property subgroups into shadowTokenGroup ]}

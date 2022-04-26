@@ -2,31 +2,31 @@
     "blueprints": [
         {
             "invoke": "borders.pr",
-            "write_to": "fskit_borders.dart"
+            "write_to": "kit_borders.dart"
         },
         {
             "invoke": "colors.pr",
-            "write_to": "fskit_colors.dart"
+            "write_to": "kit_colors.dart"
         },
         {
             "invoke": "dimensions.pr",
-            "write_to": "fskit_dimensions.dart"
+            "write_to": "kit_dimensions.dart"
         },
         {
             "invoke": "gradients.pr",
-            "write_to": "fskit_gradients.dart"
+            "write_to": "kit_gradients.dart"
         },
         {
             "invoke": "radii.pr",
-            "write_to": "fskit_radii.dart"
+            "write_to": "kit_radii.dart"
         },
         {
             "invoke": "shadows.pr",
-            "write_to": "fskit_shadows.dart"
+            "write_to": "kit_shadows.dart"
         },
         {
             "invoke": "text_styles.pr",
-            "write_to": "fskit_text_styles.dart"
+            "write_to": "kit_text_styles.dart"
         }
     ]
 }

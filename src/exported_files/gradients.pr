@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class FSKitGradients {
-  FSKitGradients._();
+class KitGradients {
+  KitGradients._();
 {[ let brand = ds.currentBrand() /]}
 {[ const gradientTokensTree = ds.tokenGroupTreeByType("Gradient", brand.id) /]}
 {[ traverse gradientTokensTree property subgroups into gradientTokenGroup ]}
