@@ -1,6 +1,6 @@
 {
     "id": "io.supernova.flutter-styles",
-    "name": "TFG Labs Flutter Exporter",
+    "name": "Bash Flutter Exporter",
     "description": "Flutter token and style exporter",
     "source_dir": "src",
     "version": "1.2.6",
@@ -10,7 +10,7 @@
         "Tokens",
         "Styles"
     ],
-    "author": "Artem Ufimtcev & TFG Labs Team",
+    "author": "Artem Ufimtcev & Bash Mobile Team",
     "organization": "Supernova",
     "homepage": "https://supernova.io",
     "usesBrands": true,
